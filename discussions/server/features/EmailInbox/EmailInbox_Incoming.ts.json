@@ -97,5 +97,38 @@
     "commit" : "9e15293f8e4beed94731872addee9b5bea312004",
     "line" : 4,
     "diffHunk" : "@@ -1,1 +44,48 @@\t\tusername: undefined,\n\t\tconnectionData: undefined,\n\t\tid: undefined,\n\t});\n"
+  },
+  {
+    "id" : "8ee444ce-d512-4ed6-a6d5-705ce362c117",
+    "prId" : 22772,
+    "prUrl" : "https://github.com/RocketChat/Rocket.Chat/pull/22772#pullrequestreview-716224095",
+    "prSource" : "GitHub",
+    "comments" : [
+      {
+        "id" : "76808f5f-3e4b-456c-9257-24e1bc70a8b8",
+        "parentId" : null,
+        "authorId" : "34fde88b-e8d3-4125-af3a-0d4cc8bd83a8",
+        "body" : "Why's this needed? 👀 ",
+        "createdAt" : "2021-07-27T17:58:06Z",
+        "updatedAt" : "2021-07-27T18:01:21Z",
+        "lastEditedBy" : "34fde88b-e8d3-4125-af3a-0d4cc8bd83a8",
+        "tags" : [
+        ]
+      },
+      {
+        "id" : "5d5d4b9b-8e0a-497a-8ad6-b7212cc61bd0",
+        "parentId" : "76808f5f-3e4b-456c-9257-24e1bc70a8b8",
+        "authorId" : "34fde88b-e8d3-4125-af3a-0d4cc8bd83a8",
+        "body" : "Just checked why this is needed 😅 ",
+        "createdAt" : "2021-07-27T18:05:33Z",
+        "updatedAt" : "2021-07-27T18:05:34Z",
+        "lastEditedBy" : "34fde88b-e8d3-4125-af3a-0d4cc8bd83a8",
+        "tags" : [
+        ]
+      }
+    ],
+    "commit" : "9e15293f8e4beed94731872addee9b5bea312004",
+    "line" : 4,
+    "diffHunk" : "@@ -1,1 +44,48 @@\t\tusername: undefined,\n\t\tconnectionData: undefined,\n\t\tid: undefined,\n\t});\n"
   }
 ]

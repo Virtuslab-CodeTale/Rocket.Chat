@@ -1,0 +1,24 @@
+[
+  {
+    "id" : "e094611b-5920-408d-aabc-5e67cf49d9a4",
+    "prId" : 22881,
+    "prUrl" : "https://github.com/RocketChat/Rocket.Chat/pull/22881#pullrequestreview-725495260",
+    "prSource" : "GitHub",
+    "comments" : [
+      {
+        "id" : "5263a82e-19e2-46db-9978-1fc1f7388eba",
+        "parentId" : null,
+        "authorId" : "a3b8456e-b33e-4ac5-ab31-e5caf329a69a",
+        "body" : "```suggestion\r\n\t\t\tcolor: ${colors.n600};\r\n\t\t\tcolor: var(--rc-color-primary-light, ${colors.n600});\r\n```",
+        "createdAt" : "2021-08-09T15:07:47Z",
+        "updatedAt" : "2021-08-09T17:02:08Z",
+        "lastEditedBy" : "a3b8456e-b33e-4ac5-ab31-e5caf329a69a",
+        "tags" : [
+        ]
+      }
+    ],
+    "commit" : "85cfc52beefff2c1712a55585d7b9ea8a1c22824",
+    "line" : 21,
+    "diffHunk" : "@@ -1,1 +14,18 @@\n\t\t& a:any-link {\n\t\t\tcolor: ${colors.n600};\n\t\t\tcolor: var(--rc-color-primary-light, ${colors.n600});\n\t\t}"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id" : "7ebc06d3-97bf-4bdd-ad6b-70c13d2ca1d1",
+    "prId" : 22857,
+    "prUrl" : "https://github.com/RocketChat/Rocket.Chat/pull/22857#pullrequestreview-726777380",
+    "prSource" : "GitHub",
+    "comments" : [
+      {
+        "id" : "2643fe51-0e5a-4676-a48f-fe2c6e10c272",
+        "parentId" : null,
+        "authorId" : "abb054e6-b771-4069-83f6-eac631c0a29d",
+        "body" : "```suggestion\r\n\t\t\t\t\t// An error in the following line would not cause the update process to fail\r\n\t\t\t\t\t// eslint-disable-next-line @typescript-eslint/no-empty-function\r\n```",
+        "createdAt" : "2021-08-10T19:42:04Z",
+        "updatedAt" : "2021-08-10T19:42:05Z",
+        "lastEditedBy" : "abb054e6-b771-4069-83f6-eac631c0a29d",
+        "tags" : [
+        ]
+      }
+    ],
+    "commit" : "53c6f570e7ded8a8fe56b0fc08f0b5d3645457e3",
+    "line" : 6,
+    "diffHunk" : "@@ -1,1 +45,49 @@\t\t\t\t\tresolve(this.idToPath(writeStream.id));\n\t\t\t\t\t// An error in the following line would not cause the update process to fail\n\t\t\t\t\t// eslint-disable-next-line @typescript-eslint/no-empty-function\n\t\t\t\t\tthis.remove(item).catch(() => {});\n\t\t\t\t})"
+  }
+]
